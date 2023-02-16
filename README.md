@@ -1,5 +1,6 @@
 ![image](https://user-images.githubusercontent.com/125455606/219287412-5d1217a6-d2b7-470b-b8bb-9709658c2b54.png)
 
+go to stream chat.io to obtain the api key after that paste your own API key to App.js file and it will run
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
